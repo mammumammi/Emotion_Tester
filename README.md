@@ -51,14 +51,14 @@ npm run dev
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](https://drive.google.com/file/d/1j2AdD-52BfZKy_7a81m_WrimhOdGW0lq/view?usp=sharing)
+![Screenshot1](images/neutralface.png)
 *The website detecting emotion via the attached webcam in the laptop.*
 
 
-![Screenshot2](https://drive.google.com/file/d/1jwFOE-keyXkpnY6ks5EXQNUMsi70Lcht/view?usp=sharing))
+![Screenshot2](images/neutral.png)
 *The page the website routes to after detecting the emotion, in this case the emotion is neutral,and you can have a chat with yourself if you are bored.*
 
-![Screenshot3](https://drive.google.com/file/d/1H72H3DAvwN30sc89db0mLuDAF0GNp-qE/view?usp=sharing)
+![Screenshot3](images/happy.png)
 *The page the website routes to after detecting the emotion, in this case the emotion is happy, and you can have a chat with yourself if you are bored.*
 
 
