@@ -1,95 +1,78 @@
 <img width="1280" alt="readme-banner" src="https://github.com/user-attachments/assets/35332e92-44cb-425b-9dff-27bcf1023c6c">
 
-# [Project Name] 🎯
+# Emotion Tester 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: HackWaters
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: Aashin Mohammed A Z - Cochin University College Of Engineering Kuttanad
+- Member 2: Anagha A - Cochin University College Of Engineering Kuttanad
+- Member 3: Harishankar C - Cochin University College Of Engineering Kuttanad
 
 ### Project Description
-[2-3 lines about what your project does]
+A totally pointless quest for emotional truth.This project’s sole purpose is to look at your face, guess your mood (probably wrong), and send you off to a webpage that might vaguely match your vibe
+But why?.Why not?No one needs a mood-guessing web that guessing moods just based on  our facial expressions.
+FEATURES
+Random attempts at figuring out if you're happy, sad, or just plain annoyed at this whole thing.
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+ Understanding Emotions of People by looking on their face.For example,Understanding If a person is happy or not when he/she is Laughing WholeHeartedly
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+The absurdly useless  solution of emotion Tester web you never know,you never need  guide you to the most irrelevant advice possible, because clearly, deciphering your emotions is just too mainstream
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- Python,JavaScript,HTML,CSS
+- React,vite
+- GSAO
+- VS Code
 
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
 
 ### Implementation
 For Software:
 # Installation
-[commands]
+Installing vite on terminal of the folder
+ npm i vite-latest
+and
+ npm install
+installing gsap library on terminal of the folder
+ npm install gsap
+
 
 # Run
-[commands]
+npm run dev
 
 ### Project Documentation
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+![Screenshot1](https://drive.google.com/file/d/1j2AdD-52BfZKy_7a81m_WrimhOdGW0lq/view?usp=sharing)
+*The website detecting emotion via the attached webcam in the laptop.*
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+![Screenshot2](https://drive.google.com/file/d/1jwFOE-keyXkpnY6ks5EXQNUMsi70Lcht/view?usp=sharing))
+*The page the website routes to after detecting the emotion, in this case the emotion is neutral,and you can have a chat with yourself if you are bored.*
 
-# Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
+![Screenshot3](https://drive.google.com/file/d/1H72H3DAvwN30sc89db0mLuDAF0GNp-qE/view?usp=sharing)
+*The page the website routes to after detecting the emotion, in this case the emotion is happy, and you can have a chat with yourself if you are bored.*
 
-For Hardware:
 
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
-
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
-
-# Build Photos
-![Components](Add photo of your components here)
-*List out all components shown*
-
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
 
 ### Project Demo
 # Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
+[demo video](https://drive.google.com/file/d/1fRvRuUY7h2usn4qagUEowb3rRilhKmjm/view?usp=sharing)
+*The Website on its starting page,Detects the emotion from the face of the user and routes to a page dedicated to that emotion,in the video shown the user have gone through the emotions happy,neutral,angry.The user got the one of a kind experience to have a rare chance to talk with himself as well.*
 
-# Additional Demos
-[Add any extra demo materials/links]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- Aashin Mohammed A Z: Helped in supporting the development of the website with the inclusion of GSAP library and effective CSS
+- Harishankar C: Built the Face Emotion Detection System,Website development
+- Anagha A : helped in getting content for the Website,supported the website development,Project Presentation Handler
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
